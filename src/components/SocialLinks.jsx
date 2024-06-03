@@ -50,7 +50,7 @@ const SocialLinks = () => {
     //       Twitter <FaTwitter size={30} />
     //     </>
     //   ),
-    //   href: "https://twitter.com/rahulkarda2002",
+    //   href: "",
     //   style: "rounded-br-md",
     // },
   ];
