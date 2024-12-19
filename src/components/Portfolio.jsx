@@ -16,7 +16,7 @@ const Portfolio = () => {
       src: "https://herobot.app/wp-content/uploads/2022/11/11-Reasons-Why-A-Chat-Application-Is-Great-For-Business_1.jpg",
       link: 'https://chatapp2a-90c26.web.app/',
       repo: '#',
-      details: `React, Redux, Tailwind CSS, Firebase `
+      details: `React, Redux, Tailwind CSS, Firebase  `
     },
     {
       id: 3,
